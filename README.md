@@ -1,6 +1,6 @@
-# N5CompleteGuide
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
+# Angular Recipe Book
+A web application developed using Angular 9 and Firebase incorporating various functionalities like selecting from a wide range of recipes, adding them to shopping cart, creating new recipes, searching for particular recipes. It depicts all the core concepts of angular ranging from event emitters, subjects and observables to routing/routing guards to signup/login and authentication using JWT.
 
 ## Development server
 
